@@ -1,0 +1,94 @@
+.background { 
+    background: url(background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    max-width: 100%;
+  }
+
+#navbar{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+  }
+
+#white{
+    color: white;
+  }
+
+
+
+#header{
+  width:100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: black;
+
+}
+
+.page1{
+  height: 100vh;
+  max-width: 100%;
+  vertical-align: top;
+  padding-top: 5%;
+  scroll-padding-top: 5%;
+  background: url(first.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+   background-size: cover;
+   max-width: 100%;
+}
+
+.page2{
+    height: 100vh;
+    max-width: 100%;
+    vertical-align: top;
+    padding-top: 5%;
+    scroll-padding-top: 5%;
+    background: url(second.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+     max-width: 100%;
+  }
+
+.page3{
+    height: 100vh;
+    max-width: 100%;
+    vertical-align: top;
+    padding-top: 5%;
+    scroll-padding-top: 5%;
+    background: url(third.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+     max-width: 100%;
+  }
+.page4{
+    height: 100vh;
+    max-width: 100%;
+    vertical-align: top;
+    padding-top: 5%;
+    scroll-padding-top: 5%;
+    background: url(fourth.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+     max-width: 100%;
+  }
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
